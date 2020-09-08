@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 ## 我正在研究的方向
 - shader
 - pytorch
-> 我还没有博客，后续可能有
+## 我的博客
+- catxia.github.io
+> 刚刚建的，凑个数
