@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - PythonResearch
 - CatXiaEngine
 ## 我正在研究的方向
-- shader
-- pytorch
+- 游戏引擎...
+- 深度学习...
 ## 我的博客
 - catxia.github.io
 > 刚刚建的，凑个数
