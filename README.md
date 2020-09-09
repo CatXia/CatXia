@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 ## 我正在撸的项目
 - CreatorShader
 - PythonResearch
+- CatXiaEngine
 ## 我正在研究的方向
 - shader
 - pytorch
 ## 我的博客
 - catxia.github.io
 > 刚刚建的，凑个数
-## 支撑一下
-![支付宝](alipay.png)
-![微信](wechat.png)
