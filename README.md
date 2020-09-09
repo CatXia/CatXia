@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - catxia.github.io
 > 刚刚建的，凑个数
 ## 支撑一下
-![](alipay.png)
-![](wechat.png)
+![支付宝](alipay.png)
+![微信](wechat.png)
