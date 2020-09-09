@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 ## 我的博客
 - catxia.github.io
 > 刚刚建的，凑个数
+## 支撑一下
+![](alipay.png)
+![](wechat.png)
